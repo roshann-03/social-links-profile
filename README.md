@@ -25,9 +25,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
 ![Design preview for the Social Links profile coding challenge](/assets/images/site-preview.jpg)
+![Design preview for the Social Links profile coding challenge desktop](desktop-preview.jpg)
+![Design preview for the Social Links profile coding challenge mobile](mobile-preview.jpg)
 
 ### Links
 
