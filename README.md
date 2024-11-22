@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Social Links profile coding challenge](\design\site-preview.jpg)
+![Design preview for the Social Links profile coding challenge](/design/site-preview.jpg)
 ![Design preview for the Social Links profile coding challenge desktop](desktop-preview.jpeg)
 ![Design preview for the Social Links profile coding challenge mobile](mobile-preview.jpeg)
 
